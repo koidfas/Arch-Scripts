@@ -1,2 +1,2 @@
-# Arch-Scripts
-Scripts for basic arch instal
+# Arch-Script
+My script to help post-install arch
